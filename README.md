@@ -47,9 +47,28 @@
 
 ---
 
-## 🏆 **Awards**  
-- 🚀 **will be updated**
+## 🪪 **Certifications and Qualifications**
+- TOEIC 845
+- AI Convergence Capability Certification(AI융합역량인증제): Class 2
 
+---
+
+## 🏆 **Honors and Awards**  
+- Academic Excellence Scholarship supported (Sangmyung University)
+    - 1st term of 2020
+- National Science & Technology Scholarship (KOSAF)
+    - 2024 – 2025 Full Scholarship for the fourth semester
+- 2024 SW Talent Scholarship in AI talent (SW-centered University Business Group)
+    - 2nd term of2024, quarter tuition
+- US Army (KATUSA)
+    - AAM(Army Achievement Medal)
+    - ARCOM(Army Commendation Medal)     
+- The 1st Korea Astronomy & Space Science Institute (KASI) and KAIST AI Competition
+    - 1st prize
+- 2024 Case contest for using service contents using artificial intelligence and cloud (SW-centeredUniversity Business Group)
+    - Excellence prize (2nd prize)
+- 2023 BioHealth Data Contest, Dental Field (BioHealth Innovation and Convergence UniversityBusiness Group)
+    - Encouragement prize (4th prize)
 ---
 
 ## 📊 **GitHub Status** 
