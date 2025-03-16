@@ -48,7 +48,7 @@
 ---
 
 ## 🪪 **Certifications and Qualifications**
-- TOEIC 845
+- TOEIC: 845
 - AI Convergence Capability Certification(AI융합역량인증제): Class 2
 
 ---
