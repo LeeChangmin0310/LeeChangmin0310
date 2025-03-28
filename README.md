@@ -25,13 +25,13 @@
 ### 📬 **Contact**  
 <p align="left">
     <a href="mailto:ckdals1380@gmail.com">
-        <img src="https://img.shields.io/badge/ckdals1380@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white&labelColor=2e2e2e">
     </a>
     <a href="https://www.instagram.com/lbrightjade/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&labelColor=2e2e2e">
     </a>
     <a href="#">
-        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
+        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&labelColor=2e2e2e">
     </a>
 </p>
 
@@ -118,32 +118,45 @@
 <p align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
-    <img src="https://img.shields.io/badge/HuggingFace-FFD54F?style=flat&logo=HuggingFace&logoColor=white">
+    <img src="https://img.shields.io/badge/Jupyter-orange?style=flat&logo=Jupyter&logoColor=white">
     <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD54F?style=flat&logo=HuggingFace&logoColor=white">
+    <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat&logo=WeightsAndBiases&logoColor=white">
 </p>
 
 ### ✨ **Sub Tech Stacks** ✨
 <p align="left">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
+    <img src="https://img.shields.io/badge/C++-A8B9CC?style=flat&logo=C++&logoColor=white">
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
+    <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white">
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white">
     <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"><br/>
+    <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white&labelColor=2e2e2e">
 </p>
 
 ### 🛠 **Tools** 🛠 
 <p align="left">
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
-    <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=flat&logo=visual-studio-code&logoColor=22ABF3">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"><br/>
+    <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=flat&logo=visual-studio-code&logoColor=white">
+    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252">
+    <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white"><br/>
+    <img src="https://img.shields.io/badge/iTerm2-000000?style=flat&logo=iterm2&logoColor=white">
+    <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
     <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white">
+    <img src="https://img.shields.io/badge/Anaconda-232F3E?style=flat&logo=Anaconda&logoColor=white"/>
+    <img src="https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white">
+    <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=flat&logo=windows%20terminal&logoColor=white">
 </p>
 
 ### 💻 **Operating Systems** 💻
