@@ -73,21 +73,23 @@
 
 ---
 
-## 🏆 **Honors and Awards**  
+## 🏆 **Honors and Awards**
+### **Honors**
 - Academic Excellence Scholarship supported (Sangmyung University)
     - 1st term of 2020
-- National Science & Technology Scholarship (KOSAF)
+- National Science & Engineering Scholarship (KOSAF, Korea Student Aid Foundation)
     - 2024 – 2025 Full Scholarship for the fourth semester
-- 2024 SW Talent Scholarship in AI talent (SW-centered University Business Group)
-    - 2nd term of2024, quarter tuition
+- 2024 SW Talent Scholarship in AI (SW-centered University Business Group)
+    - 1st and 2nd term of 2024, quarter tuition
 - US Army (KATUSA)
     - AAM(Army Achievement Medal)
-    - ARCOM(Army Commendation Medal)     
-- The 1st Korea Astronomy & Space Science Institute (KASI) and KAIST AI Competition
+    - ARCOM(Army Commendation Medal)
+### **Awards**
+- The 1st Korea Astronomy & Space Science Institute (KASI) and KAIST AI Competition (KASI and KAIST, 2024)
     - 1st prize
-- 2024 Case contest for using service contents using artificial intelligence and cloud (SW-centeredUniversity Business Group)
+- 2024 Case contest for using service contents using artificial intelligence and cloud (SW-centered University Business Group, 2024)
     - Excellence prize (2nd prize)
-- 2023 BioHealth Data Contest, Dental Field (BioHealth Innovation and Convergence UniversityBusiness Group)
+- 2023 BioHealth Data Contest, Dental Field (BioHealth Innovation and Convergence University Business Group, 2023)
     - Encouragement prize (4th prize)
 ---
 
