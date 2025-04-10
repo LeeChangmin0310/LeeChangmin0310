@@ -50,7 +50,7 @@
 
 ---
 
-## 📄 **Paper**  
+## 📄 **Papers**  
 - 🚀 **will be updated**
 
 ---
