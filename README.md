@@ -18,6 +18,7 @@
 
 ## 👋 **About Me**  
 🎓 **B.S. in AI, Sangmyung University, Seoul, Korea**<br/>
+🧪 **Research Intern in Emotion Contents Technology Research Center, Seoul, Korea**<br/>
 🧠 Aspiring **Researcher in Brain-Computer Interface (BCI) & Brain Decoding**<br/>
 🤖 Interested in **Artificial Intelligence**  
 
@@ -37,7 +38,6 @@
 
 ---
 
----
 
 ## 💼 Career
 
@@ -45,7 +45,9 @@
 |--------|--------------------|-------------|
 | 2020 – Present | **B.S. Student**, Sangmyung University (Human-Centered AI) | Focused on Artificial Intelligence and Brain-Computer Interface research |
 | 2021.06 – 2022.12 | — | Took a leave of absence for mandatory military service |
-| 2023 – Present | — | Returned to school and actively engaging in AI research |
+| 2023 – Present |  **B.S. Student**, Sangmyung University (Human-Centered AI) | Returned to school and actively engaging in AI research |
+| 2024.01 – 2024.12 | **President**, BAMBOO (Academic Club, Sangmyung University) | Led BAMBOO (Big Data, AI, Machine Learning, Basic Programming, Optimization, Overall Algorithms), the Human-Centered AI department's academic club; organized seminars, projects, and collaborative learning activities |
+| 2024.07.01 – 2024.08.31 | **Participant**, 2024 OUTTA AI Bootcamp – Deep Learning (Advanced) (hosted by OUTTA; supported by SNU GEC, SNU CEEI, ChannelTalk) | Successfully completed the Deep Learning (Advanced) course at the 2024 OUTTA AI Bootcamp, organized by OUTTA and sponsored by Seoul National University Global Engineering Center, Center for Educational Innovation, and ChannelTalk |
 | 2025.01 – Present | **Research Intern**, Emotion Contents Technology Research Center | Conducting research on affective computing using physiological signals (e.g., rPPG, EEG); developing AI models and participating in experiments |
 
 ---
@@ -53,12 +55,12 @@
 ## 📄 **Papers**  
 - 🚀 **will be updated**
 
----
+
 
 ## 🤖 **Projects**  
 - 🚀 **will be updated**
 
----
+
 
 ## 📚 Study Archives
 -  <p align="left">
@@ -67,11 +69,14 @@
     </a>
   </p>
 
+---
+
 ## 🪪 **Certifications and Qualifications**
 - TOEIC: 845
+- 2024 OUTTA AI Bootcamp – Deep Learning (Advanced)
 - AI Convergence Capability Certification(AI융합역량인증제): Class 2
 
----
+
 
 ## 🏆 **Honors and Awards**
 ### **Honors**
@@ -85,12 +90,16 @@
     - AAM(Army Achievement Medal)
     - ARCOM(Army Commendation Medal)
 ### **Awards**
-- The 1st Korea Astronomy & Space Science Institute (KASI) and KAIST AI Competition (KASI and KAIST, 2024)
+- 🥇 The 1st Korea Astronomy & Space Science Institute (KASI) and KAIST AI Competition (KASI and KAIST, 2024)
     - 1st prize
-- 2024 Case contest for using service contents using artificial intelligence and cloud (SW-centered University Business Group, 2024)
+- 🥈 2024 Case contest for using service contents using artificial intelligence and cloud (SW-centered University Business Group, 2024)
     - Excellence prize (2nd prize)
-- 2023 BioHealth Data Contest, Dental Field (BioHealth Innovation and Convergence University Business Group, 2023)
+- 🥉 2023 BioHealth Data Contest, Dental Field (BioHealth Innovation and Convergence University Business Group, 2023)
     - Encouragement prize (4th prize)
+- 🎖️ DACON AI Competition Platform (2024)
+    - Medical AI (MAI) Competition — 22nd place out of 837 participants (266 teams)
+    - SW-centered University Digital AI Competition (AI Section) — 45th place out of 906 participants (219 teams)
+
 ---
 
 ## 📊 **GitHub Status** 
