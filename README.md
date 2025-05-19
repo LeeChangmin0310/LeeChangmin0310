@@ -61,7 +61,7 @@
 
 
 ## 🤖 **Projects**  
-- **Modeling Emotion Intelligence Levels via Physiological and Facial Responses (ETRI-funded Project)**
+- **Modeling Emotion Intelligence Levels via Physiological and Facial Responses (ETRI-funded Project) at Research Center of Emotion Contents Technology**
     - This project is part of a national research initiative supported by the Human Understanding and Cognitive Computing Division at ETRI (Electronics and Telecommunications Research Institute), jointly conducted with the Sangmyung University Research Foundation.
     - The overall goal is to develop standardized emotional stimuli and modeling techniques to evaluate and classify emotional intelligence (EI) levels based on physiological responses.
     - My contribution focuses on building and analyzing models that classify individuals with high vs. low EI using:
