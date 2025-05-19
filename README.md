@@ -17,7 +17,7 @@
 ---
 
 ## 👋 **About Me**  
-🎓 **B.S. in AI, Sangmyung University, Seoul, Korea**<br/>
+🎓 **B.S. in Human Centered AI Engineering, Sangmyung University, Seoul, Korea**<br/>
 🧪 **Research Intern in Emotion Contents Technology Research Center, Seoul, Korea**<br/>
 🧠 Aspiring **Researcher in Brain-Computer Interface (BCI) & Brain Decoding**<br/>
 🤖 Interested in **Artificial Intelligence**  
@@ -53,12 +53,26 @@
 ---
 
 ## 📄 **Papers**  
-- 🚀 **will be updated**
+- **Emotion Recognition from rPPG via Physiologically-Inspired Temporal Encoding and Attention-based Curriculum Learning**  
+  📝 Preprint ID: 160051 – _Coming soon on Preprints.org (link will be added)_  
+  *(Under review at MDPI Sensors – Special Issue on Emotion Recognition and Cognitive Behavior Analysis Based on Sensors)*
 
+- 🚀 **More updates coming soon**
 
 
 ## 🤖 **Projects**  
-- 🚀 **will be updated**
+- **Modeling Emotion Intelligence Levels via Physiological and Facial Responses (ETRI-funded Project)**
+    - This project is part of a national research initiative supported by the Human Understanding and Cognitive Computing Division at ETRI (Electronics and Telecommunications Research Institute), jointly conducted with the Sangmyung University Research Foundation.
+    - The overall goal is to develop standardized emotional stimuli and modeling techniques to evaluate and classify emotional intelligence (EI) levels based on physiological responses.
+    - My contribution focuses on building and analyzing models that classify individuals with high vs. low EI using:
+        - ECG-derived physiological features,
+        - Structured micro-expression features, and
+        - A fusion of both modalities.
+- **CODEEG: EEG-Based Fashion Recommendation and Virtual Try-On System**
+    - A neuroengineering project that analyzes EEG-based Event-Related Potentials (ERP) to identify user preferences in clothing items.
+    - Using P300 signals, the system recommends personalized top and bottom combinations and generates virtual try-on images with user-uploaded photos via IDM-VTON, a state-of-the-art diffusion-based virtual try-on model.
+    - This BCI application integrates EEG signal processing, ERP-based preference detection, and AI-powered visual synthesis into an interactive web service.
+- 🚀 **More updates coming soon**
 
 
 
@@ -75,7 +89,7 @@
 - TOEIC: 845
 - 2024 OUTTA AI Bootcamp – Deep Learning (Advanced)
 - AI Convergence Capability Certification(AI융합역량인증제): Class 2
-
+- 🚀 **More updates coming soon**
 
 
 ## 🏆 **Honors and Awards**
@@ -99,6 +113,7 @@
 - 🎖️ DACON AI Competition Platform (2024)
     - Medical AI (MAI) Competition — 22nd place out of 837 participants (266 teams)
     - SW-centered University Digital AI Competition (AI Section) — 45th place out of 906 participants (219 teams)
+- 🚀 **More updates coming soon**
 
 ---
 
