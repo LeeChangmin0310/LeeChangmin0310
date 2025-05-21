@@ -161,8 +161,8 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"><br/>
-    <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white&labelColor=2e2e2e">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
+    <img src ="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"><br/>
 </p>
 
 ### 🛠 **Tools** 🛠 
