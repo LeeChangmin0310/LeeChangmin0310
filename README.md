@@ -53,9 +53,9 @@
 ---
 
 ## 📄 **Papers**  
-- **Emotion Recognition from rPPG via Physiologically-Inspired Temporal Encoding and Attention-based Curriculum Learning**  
-  - 📝 **Preprint ID:** 163895 ([preprints.org](https://www.preprints.org/manuscript/202505.1435/v2))<br/>
-  *(Under review at MDPI Sensors – Special Issue on Emotion Recognition and Cognitive Behavior Analysis Based on Sensors)*
+- **Emotion Recognition from rPPG via Physiologically-Inspired Temporal Encoding and Attention-based Curriculum Learning**
+  - ✅ **Status:** Published in *MDPI Sensors* (26 June 2025)
+  - 📖 **Published Paper (DOI):** [https://doi.org/10.3390/s25133995](https://doi.org/10.3390/s25133995)
 
 - 🚀 **More updates coming soon**
 
