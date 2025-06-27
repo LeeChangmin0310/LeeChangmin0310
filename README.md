@@ -20,7 +20,7 @@
 🎓 **B.S. in Human Centered AI Engineering, Sangmyung University, Seoul, Korea**<br/>
 🧪 **Research Intern in Emotion Contents Technology Research Center, Seoul, Korea**<br/>
 🧠 Aspiring **Researcher in Brain-Computer Interface (BCI) & Brain Decoding**<br/>
-🤖 Interested in **Artificial Intelligence**  
+🤖 Interested in **Brain-Inspired Artificial Intelligence**  
 
 
 ### 📬 **Contact**  
@@ -54,8 +54,9 @@
 
 ## 📄 **Papers**  
 - **Emotion Recognition from rPPG via Physiologically-Inspired Temporal Encoding and Attention-based Curriculum Learning**
-  - ✅ **Status:** Published in *MDPI Sensors* (26 June 2025)
-  - 📖 **Published Paper (DOI):** [https://doi.org/10.3390/s25133995](https://doi.org/10.3390/s25133995)
+  - ✅ **Status:** Published in *MDPI Sensors*
+  - **Citation:** *Sensors* **2025**, *25*(13), 3995.
+  - **Links:** - 📖 **Published Paper:** [https://doi.org/10.3390/s25133995](https://doi.org/10.3390/s25133995)
 
 - 🚀 **More updates coming soon**
 
