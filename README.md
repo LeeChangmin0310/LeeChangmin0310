@@ -58,7 +58,7 @@
   - **Citation:** *Sensors* **2025**, *25*(13), 3995.
   - **Links:** - 📖 **Published Paper:** [https://doi.org/10.3390/s25133995](https://doi.org/10.3390/s25133995)
 
-- 🚀 **More updates coming soon**
+- 🚀 **More updates coming soon** 
 
 
 ## 🤖 **Projects**  
@@ -73,7 +73,7 @@
     - A neuroengineering project that analyzes EEG-based Event-Related Potentials (ERP) to identify user preferences in clothing items.
     - Using P300 signals, the system recommends personalized top and bottom combinations and generates virtual try-on images with user-uploaded photos via IDM-VTON, a state-of-the-art diffusion-based virtual try-on model.
     - This BCI application integrates EEG signal processing, ERP-based preference detection, and AI-powered visual synthesis into an interactive web service.
-- 🚀 **More updates coming soon**
+- 🚀 **More updates coming soon** (come and check my repositories)
 
 
 
