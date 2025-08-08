@@ -48,7 +48,8 @@
 | 2023 – Present |  **B.S. Student**, Sangmyung University (Human-Centered AI) | Returned to school and actively engaging in AI research |
 | 2024.01 – 2024.12 | **President**, BAMBOO (Academic Club, Sangmyung University) | Led BAMBOO (Big Data, AI, Machine Learning, Basic Programming, Optimization, Overall Algorithms), the Human-Centered AI department's academic club; organized seminars, projects, and collaborative learning activities |
 | 2024.07.01 – 2024.08.31 | **Participant**, 2024 OUTTA AI Bootcamp – Deep Learning (Advanced) (hosted by OUTTA; supported by SNU GEC, SNU CEEI, ChannelTalk) | Successfully completed the Deep Learning (Advanced) course at the 2024 OUTTA AI Bootcamp, organized by OUTTA and sponsored by Seoul National University Global Engineering Center, Center for Educational Innovation, and ChannelTalk |
-| 2025.01 – Present | **Research Intern**, Emotion Contents Technology Research Center | Conducting research on affective computing using physiological signals (e.g., rPPG, ECG); developing AI models and participating in experiments |
+| 2025.01 – Present | **Research Intern**, Emotion Contents Technology Research Center | Under the guidance of Prof. Hwang, Min-cheol, conducted research on affective computing using physiological signals (e.g., rPPG, ECG). |
+| 2025.08 – Present | **Research Intern**, MAILAB, Korea University | Under the guidance of Prof. Gam, Tae-Eui, conducting a Visual Brain Decoding project within the Brain-Computer Interface (BCI) field. |
 
 ---
 
