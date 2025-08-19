@@ -63,7 +63,7 @@
 
 
 ## 🤖 **Projects**  
--**Visual Brain Decoding project within the Brain-Computer Interface at MAILAB**
+- **Visual Brain Decoding project within the Brain-Computer Interface at MAILAB**
 - **Modeling Emotion Intelligence Levels via Physiological and Facial Responses (ETRI-funded Project) at Research Center of Emotion Contents Technology**
 - **CODEEG: EEG-Based Fashion Recommendation and Virtual Try-On System**
 - 🚀 **More updates coming soon** (come and check my repositories)
