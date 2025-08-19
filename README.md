@@ -63,17 +63,9 @@
 
 
 ## 🤖 **Projects**  
+-**Visual Brain Decoding project within the Brain-Computer Interface at MAILAB**
 - **Modeling Emotion Intelligence Levels via Physiological and Facial Responses (ETRI-funded Project) at Research Center of Emotion Contents Technology**
-    - This project is part of a national research initiative supported by the Human Understanding and Cognitive Computing Division at ETRI (Electronics and Telecommunications Research Institute), jointly conducted with the Sangmyung University Research Foundation.
-    - The overall goal is to develop standardized emotional stimuli and modeling techniques to evaluate and classify emotional intelligence (EI) levels based on physiological responses.
-    - My contribution focuses on building and analyzing models that classify individuals with high vs. low EI using:
-        - ECG-derived physiological features,
-        - Structured micro-expression features, and
-        - A fusion of both modalities.
 - **CODEEG: EEG-Based Fashion Recommendation and Virtual Try-On System**
-    - A neuroengineering project that analyzes EEG-based Event-Related Potentials (ERP) to identify user preferences in clothing items.
-    - Using P300 signals, the system recommends personalized top and bottom combinations and generates virtual try-on images with user-uploaded photos via IDM-VTON, a state-of-the-art diffusion-based virtual try-on model.
-    - This BCI application integrates EEG signal processing, ERP-based preference detection, and AI-powered visual synthesis into an interactive web service.
 - 🚀 **More updates coming soon** (come and check my repositories)
 
 
