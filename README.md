@@ -1,13 +1,7 @@
 # Changmin LEE  
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:513e3e,100:e8e8e8&height=180&text=Good%20day%20to%20Research&animation=fadeIn&fontColor=c1bdbd&fontSize=50" />
-</div>
-
-<div align="center">
-    <a href="https://github.com/LeeChangmin0310">
-        <img src="https://github-stats-alpha.vercel.app/api?username=LeeChangmin0310&cc=60,706b6b,000000&tc=ffffff&ic=ffffff&bc=00000000"><br/>
-    </a>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:513e3e,100:e8e8e8&height=180&text=BCI%20Boom%20is%20Comming&animation=fadeIn&fontColor=c1bdbd&fontSize=50" />
 </div>
 
 <p align="center">
@@ -16,14 +10,11 @@
 
 ---
 
-## 👋 **About Me**  
+## 👋 About Me  
 🎓 **B.S. in Human Centered AI Engineering, Sangmyung University, Seoul, Korea**<br/>
 🧪 **Research Intern in Emotion Contents Technology Research Center, Seoul, Korea**<br/>
 🧠 Aspiring **Researcher in Brain-Computer Interface (BCI) & Brain Decoding**<br/>
-🤖 Interested in **Brain-Inspired Artificial Intelligence**  
-
-
-### 📬 **Contact**  
+🤖 Interested in **Brain-Inspired Artificial Intelligence** ### 📬 Contact  
 <p align="left">
     <a href="mailto:ckdals1380@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white&labelColor=2e2e2e">
@@ -38,8 +29,18 @@
 
 ---
 
+## 📄 Publications
+- **Emotion Recognition from rPPG via Physiologically-Inspired Temporal Encoding and Attention-based Curriculum Learning**
+  - ✅ **Status:** Published in *MDPI Sensors*
+  - **Citation:** *Sensors* **2025**, *25*(13), 3995.
+  - **Links:** - 📖 **Published Paper:** [https://doi.org/10.3390/s25133995](https://doi.org/10.3390/s25133995)
 
-## 💼 Career
+- 🚀 **More updates coming soon**
+ 
+---
+
+<details>
+<summary><h3>💼 Career</h3></summary>
 
 | Period | Role / Institution | Description |
 |--------|--------------------|-------------|
@@ -51,43 +52,22 @@
 | 2025.01 – Present | **Research Intern**, Emotion Contents Technology Research Center | Under the guidance of Prof. Hwang, Min-cheol, conducted research on affective computing using physiological signals (e.g., rPPG, ECG). |
 | 2025.08 – Present | **Research Intern**, MAILAB, Korea University | Under the guidance of Prof. Gam, Tae-Eui, conducting a Visual Brain Decoding project within the Brain-Computer Interface (BCI) field. |
 
----
+</details>
 
-## 📄 **Papers**  
-- **Emotion Recognition from rPPG via Physiologically-Inspired Temporal Encoding and Attention-based Curriculum Learning**
-  - ✅ **Status:** Published in *MDPI Sensors*
-  - **Citation:** *Sensors* **2025**, *25*(13), 3995.
-  - **Links:** - 📖 **Published Paper:** [https://doi.org/10.3390/s25133995](https://doi.org/10.3390/s25133995)
+<details>
+<summary><h3>🤖 Key Projects in BCI & AI</h3></summary>
 
-- 🚀 **More updates coming soon** 
-
-
-## 🤖 **Projects**  
 - **Visual Brain Decoding project within the Brain-Computer Interface at MAILAB**
 - **Modeling Emotion Intelligence Levels via Physiological and Facial Responses (ETRI-funded Project) at Research Center of Emotion Contents Technology**
 - **CODEEG: EEG-Based Fashion Recommendation and Virtual Try-On System**
 - 🚀 **More updates coming soon** (come and check my repositories)
 
+</details>
 
+<details>
+<summary><h3>🏆 Honors and Awards</h3></summary>
 
-## 📚 Study Archives
--  <p align="left">
-    <a href="https://github.com/Changmin-Study">
-      <img src="https://img.shields.io/badge/Go%20to%20Study%20Repos%20Organization-Changmin--Study-000000?style=flat&logo=github&logoColor=white" alt="Study Repo Badge"/>
-    </a>
-  </p>
-
----
-
-## 🪪 **Certifications and Qualifications**
-- TOEIC: 845
-- 2024 OUTTA AI Bootcamp – Deep Learning (Advanced)
-- AI Convergence Capability Certification(AI융합역량인증제): Class 2
-- 🚀 **More updates coming soon**
-
-
-## 🏆 **Honors and Awards**
-### **Honors**
+#### Honors
 - Academic Excellence Scholarship supported (Sangmyung University)
     - 1st term of 2020
 - National Science & Engineering Scholarship (KOSAF, Korea Student Aid Foundation)
@@ -97,7 +77,8 @@
 - US Army (KATUSA)
     - AAM(Army Achievement Medal)
     - ARCOM(Army Commendation Medal)
-### **Awards**
+
+#### Awards
 - 🥇 The 1st Korea Astronomy & Space Science Institute (KASI) and KAIST AI Competition (KASI and KAIST, 2024)
     - 1st prize
 - 🥈 2024 Case contest for using service contents using artificial intelligence and cloud (SW-centered University Business Group, 2024)
@@ -109,32 +90,31 @@
     - SW-centered University Digital AI Competition (AI Section) — 45th place out of 906 participants (219 teams)
 - 🚀 **More updates coming soon**
 
----
+</details>
 
-## 📊 **GitHub Status** 
+<details>
+    
+<summary><h3>🪪 Certifications and Qualifications</h3></summary>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LeeChangmin0310&bg_color=60,706b6b,000000&title_color=ffffff&text_color=ffffff" width="50%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeChangmin0310&layout=compact&hide_progress=true&bg_color=60,706b6b,000000&title_color=ffffff&text_color=ffffff" width="46.5%"/>
-</div>
-<!--
-<div align="center">
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeeChangmin0310&bg_color=60,706b6b,000000&hide_border=true&line=ffffff&color=ffffff" width="98%"/>
+- TOEIC: 845
+- 2024 OUTTA AI Bootcamp – Deep Learning (Advanced)
+- AI Convergence Capability Certification(AI융합역량인증제): Class 2
+- 🚀 **More updates coming soon**
+
+</details>
+<details>
+<summary><h3>📚 Study Archives</h3></summary>
+ <p align="left">
+    <a href="https://github.com/Changmin-Study">
+      <img src="https://img.shields.io/badge/Go%20to%20Study%20Repos%20Organization-Changmin--Study-000000?style=flat&logo=github&logoColor=white" alt="Study Repo Badge"/>
     </a>
-</div>
--->
-<div align="center">
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeeChangmin0310&theme=high-contrast&hide_border=true" width="98%"/>
-    </a>
-</div>
+  </p>
+</details>
 
----
+<details>
+<summary><h3>🧱 Tech Stacks</h3></summary>
 
-## 🧱 **Tech Stacks** 🧱
-
-### 🔥 **Main Tech Stacks** 🔥
+#### 🔥 Main Tech Stacks 🔥
 <p align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
@@ -144,7 +124,7 @@
     <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat&logo=WeightsAndBiases&logoColor=white">
 </p>
 
-### ✨ **Sub Tech Stacks** ✨
+#### ✨ Sub Tech Stacks ✨
 <p align="left">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
     <img src="https://img.shields.io/badge/C++-A8B9CC?style=flat&logo=C++&logoColor=white">
@@ -159,7 +139,7 @@
     <img src ="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"><br/>
 </p>
 
-### 🛠 **Tools** 🛠 
+#### 🛠 Tools 🛠 
 <p align="left">
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
@@ -179,7 +159,7 @@
     <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=flat&logo=windows%20terminal&logoColor=white">
 </p>
 
-### 💻 **Operating Systems** 💻
+#### 💻 Operating Systems 💻
 <p align="left">
     <img src="https://img.shields.io/badge/mac%20os-000000?style=flat&logo=apple&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
@@ -188,4 +168,23 @@
     <img src="https://img.shields.io/badge/WSL-0a97f5?style=flat&logo=linux&logoColor=white">
 </p>
 
+</details>
+
 ---
+
+### 📊 GitHub Status
+
+<div align="center">
+    <a href="https://github.com/LeeChangmin0310">
+        <img src="https://github-stats-alpha.vercel.app/api?username=LeeChangmin0310&cc=60,706b6b,000000&tc=ffffff&ic=ffffff&bc=00000000"><br/>
+    </a>
+</div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=LeeChangmin0310&bg_color=60,706b6b,000000&title_color=ffffff&text_color=ffffff" width="50%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeChangmin0310&layout=compact&hide_progress=true&bg_color=60,706b6b,000000&title_color=ffffff&text_color=ffffff" width="46.5%"/>
+</div>
+<div align="center">
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeeChangmin0310&theme=high-contrast&hide_border=true" width="98%"/>
+    </a>
+</div>
