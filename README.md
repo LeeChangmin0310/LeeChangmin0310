@@ -14,7 +14,9 @@
 🎓 **B.S. in Human Centered AI Engineering, Sangmyung University, Seoul, Korea**<br/>
 🧪 **Research Intern in Emotion Contents Technology Research Center, Seoul, Korea**<br/>
 🧠 Aspiring **Researcher in Brain-Computer Interface (BCI) & Brain Decoding**<br/>
-🤖 Interested in **Brain-Inspired Artificial Intelligence** ### 📬 Contact  
+🤖 Interested in **Brain-Inspired Artificial Intelligence** 
+
+### 📬 Contact  
 <p align="left">
     <a href="mailto:ckdals1380@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white&labelColor=2e2e2e">
