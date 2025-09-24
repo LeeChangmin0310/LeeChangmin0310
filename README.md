@@ -60,7 +60,7 @@
 <summary><h3>🤖 Key Projects in BCI & AI</h3></summary>
 
 - **Visual Brain Decoding project within the Brain-Computer Interface at MAILAB**
-- **Modeling Emotion Intelligence Levels via Physiological and Facial Responses (ETRI-funded Project) at Research Center of Emotion Contents Technology**
+- **Modeling Emotion Recognition Model based on Emotion Intelligence Levels via Physiological and Facial Responses (ETRI-funded Project) at Research Center of Emotion Contents Technology**
 - **CODEEG: EEG-Based Fashion Recommendation and Virtual Try-On System**
 - 🚀 **More updates coming soon** (come and check my repositories)
 
