@@ -12,7 +12,7 @@
 
 ## 👋 About Me  
 🎓 **B.S. in Human Centered AI Engineering, Sangmyung University, Seoul, Korea**<br/>
-🧪 **Research Intern in Medical Artificial Interigence LAB (MAILAB), Korea Univ., Korea**<br/>
+🧪 **Research Intern in Medical Artificial Interigence LAB (MAILAB) in Korea Univ., Seoul, Korea**<br/>
 🧠 Aspiring **Researcher in Brain-Computer Interface (BCI) & Brain Decoding**<br/>
 🤖 Interested in **Brain-Inspired Artificial Intelligence** 
 
@@ -36,6 +36,15 @@
   - ✅ **Status:** Published in *MDPI Sensors*
   - **Citation:** *Sensors* **2025**, *25*(13), 3995.
   - **Links:** - 📖 **Published Paper:** [https://doi.org/10.3390/s25133995](https://doi.org/10.3390/s25133995)
+
+- **Brain-Inspired Dual-Stream Fusion for EEG-to-Image Retrieval**  
+  *(뇌 영감 기반 이중-경로 정렬 및 융합을 통한 EEG-이미지 검색 향상)*  
+  - 📝 **Status:** Abstract submitted (decision pending)  
+  - 🗓️ **Venue:** 2025 The Korean Society of Medical & Biological Engineering Fall Conference<br/>
+    *(2025 대한의용생체공학회 추계학술대회)*
+  - 📢 **Presentation:** Poster **likely (TBC)**  
+  - 🔎 **Public posting:** expected by **2025-11-06** or earlier  
+  - 🔗 **Project:** [code / repo](#) · **Poster:** TBA · **Paper:** TBA
 
 - 🚀 **More updates coming soon**
  
