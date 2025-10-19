@@ -183,7 +183,7 @@
     </a>
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LeeChangmin0310&bg_color=60,706b6b,000000&title_color=ffffff&text_color=ffffff" width="50%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=LeeChangmin0310&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&bg_color=60,706b6b,000000&title_color=ffffff&text_color=ffffff" width="50%"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeChangmin0310&layout=compact&hide_progress=true&bg_color=60,706b6b,000000&title_color=ffffff&text_color=ffffff" width="46.5%"/>
 </div>
 <div align="center">
