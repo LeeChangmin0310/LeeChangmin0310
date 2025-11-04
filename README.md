@@ -41,9 +41,9 @@
   *(뇌 영감 기반 이중-경로 정렬 및 융합을 통한 EEG-이미지 검색 향상)*  
   - 📝 **Status:** Abstract submitted (decision pending)  
   - 🗓️ **Venue:** 2025 The Korean Society of Medical & Biological Engineering Fall Conference<br/>
-    *(2025 대한의용생체공학회 추계학술대회)*
+    - *(2025 대한의용생체공학회 추계학술대회)*
   - 📢 **Presentation:** Poster **likely (TBC)**  
-  - 🔎 **Public posting:** expected by **2025-11-06** or earlier  
+  - 🔎 **Public posting:** expected by **2025-11-07** or earlier  
   - 🔗 **Project:** [code / repo](#) · **Poster:** TBA · **Paper:** TBA
 
 - 🚀 **More updates coming soon**
