@@ -39,8 +39,8 @@
 
 - **Brain-Inspired Dual-Stream Fusion for EEG-to-Image Retrieval**  
   *(뇌 영감 기반 이중-경로 정렬 및 융합을 통한 EEG-이미지 검색 향상)*
-  - ✅ Status: Published in Conference Proceedings (Poster Presentation)
-  - Citation: Proceedings of the 2025 KOSOMBE Fall Conference, p. 375.
+  - ✅ Status: Published in Conference Proceedings (Poster Presentation, Poster-025)
+  - Citation: Proceedings of the 2025 KOSOMBE Fall Conference, p. 374.
   - Links: - 📖 Published Abstract: https://www.kosombe.or.kr/register/2025_fall/file/ebook.pdf?v=251116
 
 - 🚀 **More updates coming soon**
