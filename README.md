@@ -10,38 +10,43 @@
 
 ---
 
-## 👋 About Me  
-🎓 **B.S. in Human Centered AI Engineering, Sangmyung University, Seoul, Korea**<br/>
-🧪 **Research Intern in Medical Artificial Interigence LAB (MAILAB) in Korea Univ., Seoul, Korea**<br/>
-🧠 Aspiring **Researcher in Brain-Computer Interface (BCI) & Brain Decoding**<br/>
-🤖 Interested in **Brain-Inspired Artificial Intelligence** 
+## 👋 About Me  
+<p align="left">
+    <a href="https://leechangmin0310.github.io">
+        <img src="https://img.shields.io/badge/🌐_Visit_My_Research_Portfolio-4b6cb7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website">
+    </a>
+</p>
 
-### 📬 Contact  
+🎓 **B.S. Candidate in Human-Centered AI, Sangmyung University** (Mar. 2020 – Feb. 2026 Expected)<br/>
+🧪 **Research Intern, MAILAB (Medical AI Lab), Korea University** (Aug. 2025 – Present)<br/>
+🧠 **Research Interest:** Brain-Computer Interface (BCI), Visual Brain Decoding, Brain-Inspired AI<br/>
+🤖 **Goal:** Realizing the **"AI-to-Brain"** paradigm to explore human brain dynamics using advanced generative models.
+
+### 📬 Contact  
 <p align="left">
     <a href="mailto:ckdals1380@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white&labelColor=2e2e2e">
     </a>
-    <a href="https://www.instagram.com/lbrightjade/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&labelColor=2e2e2e">
+    <a href="https://www.linkedin.com/in/changmin-lee-brightjade">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=2e2e2e">
     </a>
-    <a href="#">
-        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&labelColor=2e2e2e">
+    <a href="https://leechangmin0310.github.io">
+        <img src="https://img.shields.io/badge/Portfolio-4b6cb7?style=flat&logo=googlechrome&logoColor=white&labelColor=2e2e2e">
     </a>
 </p>
 
 ---
 
-## 📄 Publications
-- **Emotion Recognition from rPPG via Physiologically-Inspired Temporal Encoding and Attention-based Curriculum Learning**
-  - ✅ **Status:** Published in *MDPI Sensors*
-  - **Citation:** *Sensors* **2025**, *25*(13), 3995.
-  - **Links:** - 📖 **Published Paper:** [https://doi.org/10.3390/s25133995](https://doi.org/10.3390/s25133995)
+## 📄 Selected Publications
+*For a full list, please visit my [Portfolio Website](https://leechangmin0310.github.io/publications.html).*
 
-- **Brain-Inspired Dual-Stream Fusion for EEG-to-Image Retrieval**  
-  *(뇌 영감 기반 이중-경로 정렬 및 융합을 통한 EEG-이미지 검색 향상)*
-  - ✅ Status: Published in Conference Proceedings (Poster Presentation, Poster-025)
-  - Citation: Proceedings of the 2025 KOSOMBE Fall Conference, p. 374.
-  - Links: - 📖 Published Abstract: https://www.kosombe.or.kr/register/2025_fall/file/ebook.pdf?v=251116
+- **Brain-Inspired Dual-Stream Fusion for EEG-to-Image Retrieval** *CM. Lee, et al..* ✅ **Status:** Published in *Proceedings of the 2025 KOSOMBE Fall Conference* (Poster Presentation).  
+  📝 **Note:** Targeting IEEE BCI Winter 2026 (Extended Ver.)
+
+- **Text2VR: An End-to-End Pipeline for Interactive VR Scenes from a Single Text Prompt** *CM. Lee, S. Myoung, M. An, Y. Jin, EC. Lee.* ✅ **Status:** Submitted to *HCI Korea 2026*.
+
+- **Emotion Recognition from rPPG via Physiologically Inspired Temporal Encoding** *C. Lee, H. Lee, M. Whang.* ✅ **Status:** Published in *Sensors (SCIE)*, 25(13), 3995, 2025.  
+  🔗 [Paper Link](https://doi.org/10.3390/s25133995)
 
 - 🚀 **More updates coming soon**
  
@@ -57,8 +62,8 @@
 | 2023 – Present |  **B.S. Student**, Sangmyung University (Human-Centered AI) | Returned to school and actively engaging in AI research |
 | 2024.01 – 2024.12 | **President**, BAMBOO (Academic Club, Sangmyung University) | Led BAMBOO (Big Data, AI, Machine Learning, Basic Programming, Optimization, Overall Algorithms), the Human-Centered AI department's academic club; organized seminars, projects, and collaborative learning activities |
 | 2024.07.01 – 2024.08.31 | **Participant**, 2024 OUTTA AI Bootcamp – Deep Learning (Advanced) (hosted by OUTTA; supported by SNU GEC, SNU CEEI, ChannelTalk) | Successfully completed the Deep Learning (Advanced) course at the 2024 OUTTA AI Bootcamp, organized by OUTTA and sponsored by Seoul National University Global Engineering Center, Center for Educational Innovation, and ChannelTalk |
-| 2025.01 – 2025.10 | **Research Intern**, Emotion Contents Technology Research Center | Under the guidance of Prof. Hwang, Min-cheol, conducted research on affective computing using physiological signals (e.g., rPPG, ECG). |
-| 2025.08 – Present | **Research Intern**, MAILAB, Korea University | Under the guidance of Prof. Gam, Tae-Eui, conducting a Visual Brain Decoding project within the Brain-Computer Interface (BCI) field. |
+| 2025.01 – 2025.10 | **Research Intern**, Emotion Contents Tech. Center | **Affective Computing**<br>- Developed rPPG-based emotion recognition models (Sensors Paper).<br>- Managed MAHNOB-HCI dataset pipeline. |
+| 2025.08 – Present | **Research Intern**, MAILAB, Korea Univ. | **Visual Brain Decoding (BCI)**<br>- Proposed a dual-stream EEG encoder inspired by ventral/dorsal pathways.<br>- Aligned EEG with CLIP features for zero-shot image retrieval. |
 
 </details>
 
@@ -87,6 +92,8 @@
     - ARCOM(Army Commendation Medal)
 
 #### Awards
+-  **Excellence Award**  **at Graduation Project Festival (Text2VR)** (Sangmyung Univ. Nov. 2025)
+-  **Ranked 18th (Top 1.5%)** **at NeurIPS 2025 EEG Foundation Challenge** (1,183 Teams) (NeurIPS, 2025)
 - 🥇 The 1st Korea Astronomy & Space Science Institute (KASI) and KAIST AI Competition (KASI and KAIST, 2024)
     - 1st prize
 - 🥈 2024 Case contest for using service contents using artificial intelligence and cloud (SW-centered University Business Group, 2024)
