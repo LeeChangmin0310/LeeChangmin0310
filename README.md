@@ -49,22 +49,38 @@
 ## 📄 Selected Publications
 *For a **full** list, please visit my [Portfolio Website](https://leechangmin0310.github.io/publications.html).*
 
-- **Brain-Inspired Dual-Stream Fusion for EEG-to-Image Retrieval** <br/>
-  *CM. Lee, et al..* <br/>
-  ✅ **Status:** Published in *Proceedings of the 2025 KOSOMBE Fall Conference* (Poster Presentation). <br/>
-  📝 **Note:** Targeting IEEE BCI Winter 2026 (Extended Ver.)
+### 🧠 Brain-Computer Interface & Affective Computing
 
-- **Text2VR: An End-to-End Pipeline for Interactive VR Scenes from a Single Text Prompt** <br/>
-  *CM. Lee, S. Myoung, M. An, Y. Jin, EC. Lee.* <br/>
-  ✅ **Status:** Submitted to *HCI Korea 2026*.
+- **Mimicking Visual Pathways: Multi-Stream Fusion for EEG-Based Image Retrieval (Tentative)** <br/>
+  ***CM. Lee**, JM. Kim, W. Choi, Y. Choi, TE. Kam†.* <br/>
+  ✍️ **Status:** In Preparation for *IEEE International Winter Conference on Brain-Computer Interface (IEEE BCI Winter 2026)*. <br/>
+  📝 **Note:** Proposes a novel architecture fusing Dorsal, Ventral, and Global EEG encoders. (†: Corresponding Author)
+
+- **Brain-Inspired Dual-Stream Fusion for EEG-to-Image Retrieval** <br/>
+  ***C. Lee**\*, JM. Kim\*, W. Choi, Y. Choi, TE. Kam†.* <br/>
+  ✅ **Status:** Published in *Proceedings of the 2025 KOSOMBE Fall Conference* (Poster Presentation). <br/>
+  🔗 [Proceedings (pp. 306-307)](https://www.kosombe.or.kr/register/2025_fall/file/ebook.pdf?v=251206) <br/>
+  📝 **Note:** (*: Co-first Author, †: Corresponding Author)
 
 - **Emotion Recognition from rPPG via Physiologically Inspired Temporal Encoding** <br/>
-  *C. Lee, H. Lee, M. Whang.* <br/>
+  ***C. Lee**, H. Lee, M. Whang†.* <br/>
   ✅ **Status:** Published in *Sensors (SCIE)*, 25(13), 3995, 2025. <br/>
-  🔗 [Paper Link](https://doi.org/10.3390/s25133995)
+  🔗 [Paper Link](https://doi.org/10.3390/s25133995) <br/>
+  📝 **Note:** (†: Corresponding Author)
+
+### 🎨 Generative AI & Virtual Reality
+
+- **Text2VR: A Modular Pipeline for Interactive VR Scenes from a Single Text Prompt** <br/>
+  ***CM. Lee\***\*, S. Myoung\*, M. An\*, Y. Jin\*, EC. Lee†.* <br/>
+  ✅ **Status:** Submitted to *Journal of Korea Computer Game Society (JKCGS)*. <br/>
+  📝 **Note:** Extended Version of the *HCI Korea 2026* paper. (*: Co-first Author)
+
+- **Text2VR: An End-to-End Pipeline for Interactive VR Scenes from a Single Text Prompt** <br/>
+  ***CM. Lee\***\*, S. Myoung\*, M. An\*, Y. Jin\*, EC. Lee†.* <br/>
+  ✅ **Status:** Submitted to *HCI Korea 2026*. <br/>
+  📝 **Note:** (*: Co-first Author)
 
 - 🚀 **More updates coming soon**
-
 ---
 
 <details>
