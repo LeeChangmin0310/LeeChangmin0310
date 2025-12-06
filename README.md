@@ -1,28 +1,31 @@
-# Changmin LEE  
+# Chang-Min LEE
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:513e3e,100:e8e8e8&height=180&text=BCI%20Boom%20is%20Comming&animation=fadeIn&fontColor=c1bdbd&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:513e3e,100:e8e8e8&height=180&text=BCI%20Boom%20is%20Coming&animation=fadeIn&fontColor=c1bdbd&fontSize=50" />
 </div>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Serif&size=18&duration=2500&pause=1000&multiline=true&width=700&height=80&lines=Changmin+LEE;Researcher+%7C+AI+%7C+Brain+Computer+Interface+%7C+Brain+Decoding&color=ffffff" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Serif&size=18&duration=2500&pause=1000&multiline=true&width=700&height=80&lines=Chang-Min+Lee;Researcher+%7C+AI+%7C+Brain+Computer+Interface+%7C+Brain+Decoding&color=ffffff" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+    <a href="https://leechangmin0310.github.io">
+        <img src="https://img.shields.io/badge/✨_Visit_My_Research_Portfolio_✨-4b6cb7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website">
+    </a>
 </p>
 
 ---
 
-## 👋 About Me  
-<p align="left">
-    <a href="https://leechangmin0310.github.io">
-        <img src="https://img.shields.io/badge/🌐_Visit_My_Research_Portfolio-4b6cb7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website">
-    </a>
-</p>
+## 👋 About Me
 
-🎓 **B.S. Candidate in Human-Centered AI, Sangmyung University** (Mar. 2020 – Feb. 2026 Expected)<br/>
-🧪 **Research Intern, MAILAB (Medical AI Lab), Korea University** (Aug. 2025 – Present)<br/>
-🧠 **Research Interest:** Brain-Computer Interface (BCI), Visual Brain Decoding, Brain-Inspired AI<br/>
-🤖 **Goal:** Realizing the **"AI-to-Brain"** paradigm to explore human brain dynamics using advanced generative models.
+🎓 **B.S. in Human-Centered AI** @ Sangmyung University (Mar. 2020 – Feb. 2026) <br/>
+🧪 **Research Intern** @ MAILAB, Korea University (Aug. 2025 – Feb. 2026) <br/>
+🧐 **Integrated M.S.-Ph.D.** @ MAILAB, Korea University (Mar. 2026 - Present) <br/>
 
-### 📬 Contact  
+🧠 **Research Interest:** Brain-Computer Interface (BCI), Visual Brain Decoding, Brain-Inspired AI <br/>
+🤖 **Goal:** Realizing the **"AI-to-Brain"** paradigm to explore human brain dynamics.
+
+### 📬 Contact
 <p align="left">
     <a href="mailto:ckdals1380@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white&labelColor=2e2e2e">
@@ -30,80 +33,94 @@
     <a href="https://www.linkedin.com/in/changmin-lee-brightjade">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=2e2e2e">
     </a>
-    <a href="https://leechangmin0310.github.io">
-        <img src="https://img.shields.io/badge/Portfolio-4b6cb7?style=flat&logo=googlechrome&logoColor=white&labelColor=2e2e2e">
+    <a href="https://orcid.org/0009-0006-9187-7108">
+        <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white&labelColor=2e2e2e">
     </a>
+    <a href="https://github.com/Changmin-Study">
+      <img src="https://img.shields.io/badge/Go%20to%20Study%20Repos%20Organization-Changmin--Study-000000?style=flat&logo=github&logoColor=white" alt="Study Repo Badge"/>
+    </a>
+    <!--<a href="YOUR_GOOGLE_SCHOLAR_LINK">
+        <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white&labelColor=2e2e2e">
+    </a>!-->
 </p>
 
 ---
 
 ## 📄 Selected Publications
-*For a full list, please visit my [Portfolio Website](https://leechangmin0310.github.io/publications.html).*
+*For a **full** list, please visit my [Portfolio Website](https://leechangmin0310.github.io/publications.html).*
 
-- **Brain-Inspired Dual-Stream Fusion for EEG-to-Image Retrieval** *CM. Lee, et al..* ✅ **Status:** Published in *Proceedings of the 2025 KOSOMBE Fall Conference* (Poster Presentation).  
+- **Brain-Inspired Dual-Stream Fusion for EEG-to-Image Retrieval** <br/>
+  *CM. Lee, et al..* <br/>
+  ✅ **Status:** Published in *Proceedings of the 2025 KOSOMBE Fall Conference* (Poster Presentation). <br/>
   📝 **Note:** Targeting IEEE BCI Winter 2026 (Extended Ver.)
 
-- **Text2VR: An End-to-End Pipeline for Interactive VR Scenes from a Single Text Prompt** *CM. Lee, S. Myoung, M. An, Y. Jin, EC. Lee.* ✅ **Status:** Submitted to *HCI Korea 2026*.
+- **Text2VR: An End-to-End Pipeline for Interactive VR Scenes from a Single Text Prompt** <br/>
+  *CM. Lee, S. Myoung, M. An, Y. Jin, EC. Lee.* <br/>
+  ✅ **Status:** Submitted to *HCI Korea 2026*.
 
-- **Emotion Recognition from rPPG via Physiologically Inspired Temporal Encoding** *C. Lee, H. Lee, M. Whang.* ✅ **Status:** Published in *Sensors (SCIE)*, 25(13), 3995, 2025.  
+- **Emotion Recognition from rPPG via Physiologically Inspired Temporal Encoding** <br/>
+  *C. Lee, H. Lee, M. Whang.* <br/>
+  ✅ **Status:** Published in *Sensors (SCIE)*, 25(13), 3995, 2025. <br/>
   🔗 [Paper Link](https://doi.org/10.3390/s25133995)
 
 - 🚀 **More updates coming soon**
- 
+
 ---
 
 <details>
-<summary><h3>💼 Career</h3></summary>
+<summary><h2>💼 Career</h2></summary>
 
 | Period | Role / Institution | Description |
 |--------|--------------------|-------------|
-| 2020 – Present | **B.S. Student**, Sangmyung University (Human-Centered AI) | Focused on Artificial Intelligence and Brain-Computer Interface research |
-| 2021.06 – 2022.12 | — | Took a leave of absence for mandatory military service |
-| 2023 – Present |  **B.S. Student**, Sangmyung University (Human-Centered AI) | Returned to school and actively engaging in AI research |
-| 2024.01 – 2024.12 | **President**, BAMBOO (Academic Club, Sangmyung University) | Led BAMBOO (Big Data, AI, Machine Learning, Basic Programming, Optimization, Overall Algorithms), the Human-Centered AI department's academic club; organized seminars, projects, and collaborative learning activities |
-| 2024.07.01 – 2024.08.31 | **Participant**, 2024 OUTTA AI Bootcamp – Deep Learning (Advanced) (hosted by OUTTA; supported by SNU GEC, SNU CEEI, ChannelTalk) | Successfully completed the Deep Learning (Advanced) course at the 2024 OUTTA AI Bootcamp, organized by OUTTA and sponsored by Seoul National University Global Engineering Center, Center for Educational Innovation, and ChannelTalk |
+| 2026.03 - Present | **Integrated M.S.-Ph.D.**, MAILAB, Korea Univ. | Brain-Computer Interface and Artificial Intelligence. |
+| 2025.08 – 2026.02 | **Research Intern**, MAILAB, Korea Univ. | **Visual Brain Decoding (BCI)**<br>- Proposed a dual-stream EEG encoder inspired by ventral/dorsal pathways.<br>- Aligned EEG with CLIP features for zero-shot image retrieval. |
 | 2025.01 – 2025.10 | **Research Intern**, Emotion Contents Tech. Center | **Affective Computing**<br>- Developed rPPG-based emotion recognition models (Sensors Paper).<br>- Managed MAHNOB-HCI dataset pipeline. |
-| 2025.08 – Present | **Research Intern**, MAILAB, Korea Univ. | **Visual Brain Decoding (BCI)**<br>- Proposed a dual-stream EEG encoder inspired by ventral/dorsal pathways.<br>- Aligned EEG with CLIP features for zero-shot image retrieval. |
+| 2024.01 – 2024.12 | **President**, BAMBOO (Academic Club) | Led Human-Centered AI department's academic club; organized seminars and projects. |
+| 2024.07 – 2024.08 | **Participant**, OUTTA AI Bootcamp | Completed Deep Learning (Advanced) course hosted by SNU GEC. |
+| 2020 – 2026.02 | **B.S. Student**, Sangmyung University | Human-Centered AI Major. |
+</details>
+
+
+<details>
+<summary><h2>🏆 Honors and Awards</h2></summary>
+
+### Honors & Scholarships
+- **National Science & Engineering Scholarship**, KOSAF
+  - *Full Tuition Scholarship for 4 semesters (2024 – 2025)*
+- **SW Talent Scholarship in AI**, SW-centered University Business Group
+  - *Recipients of 1st and 2nd Semester (2024)*
+- **Army Commendation Medal (ARCOM)**, United States Army (Eighth Army)
+  - *Awarded for meritorious service during KATUSA service (2021)*
+- **Army Achievement Medal (AAM)**, United States Army
+  - *Awarded for outstanding achievement (2021)*
+- **Academic Excellence Scholarship**, Sangmyung University
+  - *Spring 2020*
+
+### Awards & Competitions
+- **Ranked 18th (Top 1.5%)**, NeurIPS 2025 EEG Foundation Challenge
+  - *NeurIPS 2025 (1,183 Teams)*
+- **Excellence Award**, Human AI Studio Festival 2025 (Graduation Project: Text2VR)
+  - *Sangmyung University (Nov. 2025)*
+- **1st Prize**, The 1st KASI and KAIST AI Competition
+  - *KASI and KAIST (2024)*
+- **Excellence Prize (2nd Place)**, AI & Cloud Service Contents Contest
+  - *SW-centered University Business Group (2024)*
+- **Top 8% (22nd/266 Teams)**, Medical AI (MAI) Competition
+  - *DACON (2024)*
+- **Top 5% (45th/906 Participants)**, SW-centered University Digital AI Competition
+  - *DACON (2024)*
+- **Encouragement Prize**, 2023 BioHealth Data Contest (Dental Field)
+  - *BioHealth Innovation and Convergence University Business Group (2023)*
 
 </details>
 
-<details>
+<!--<details>
 <summary><h3>🤖 Key Projects in BCI & AI</h3></summary>
 
 - **Visual Brain Decoding project within the Brain-Computer Interface at MAILAB**
 - **Modeling Emotion Recognition Model based on Emotion Intelligence Levels via Physiological and Facial Responses (ETRI-funded Project) at Research Center of Emotion Contents Technology**
 - **CODEEG: EEG-Based Fashion Recommendation and Virtual Try-On System**
 - 🚀 **More updates coming soon** (come and check my repositories)
-
-</details>
-
-<details>
-<summary><h3>🏆 Honors and Awards</h3></summary>
-
-#### Honors
-- Academic Excellence Scholarship supported (Sangmyung University)
-    - 1st term of 2020
-- National Science & Engineering Scholarship (KOSAF, Korea Student Aid Foundation)
-    - 2024 – 2025 Full Scholarship for the fourth semester
-- 2024 SW Talent Scholarship in AI (SW-centered University Business Group)
-    - 1st and 2nd term of 2024, quarter tuition
-- US Army (KATUSA)
-    - AAM(Army Achievement Medal)
-    - ARCOM(Army Commendation Medal)
-
-#### Awards
--  **Excellence Award**  **at Graduation Project Festival (Text2VR)** (Sangmyung Univ. Nov. 2025)
--  **Ranked 18th (Top 1.5%)** **at NeurIPS 2025 EEG Foundation Challenge** (1,183 Teams) (NeurIPS, 2025)
-- 🥇 The 1st Korea Astronomy & Space Science Institute (KASI) and KAIST AI Competition (KASI and KAIST, 2024)
-    - 1st prize
-- 🥈 2024 Case contest for using service contents using artificial intelligence and cloud (SW-centered University Business Group, 2024)
-    - Excellence prize (2nd prize)
-- 🥉 2023 BioHealth Data Contest, Dental Field (BioHealth Innovation and Convergence University Business Group, 2023)
-    - Encouragement prize (4th prize)
-- 🎖️ DACON AI Competition Platform (2024)
-    - Medical AI (MAI) Competition — 22nd place out of 837 participants (266 teams)
-    - SW-centered University Digital AI Competition (AI Section) — 45th place out of 906 participants (219 teams)
-- 🚀 **More updates coming soon**
 
 </details>
 
@@ -125,9 +142,10 @@
     </a>
   </p>
 </details>
+!-->
 
 <details>
-<summary><h3>🧱 Tech Stacks</h3></summary>
+<summary><h2>🧱 Tech Stacks</h2></summary>
 
 #### 🔥 Main Tech Stacks 🔥
 <p align="left">
@@ -138,7 +156,6 @@
     <img src="https://img.shields.io/badge/HuggingFace-FFD54F?style=flat&logo=HuggingFace&logoColor=white">
     <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat&logo=WeightsAndBiases&logoColor=white">
 </p>
-
 #### ✨ Sub Tech Stacks ✨
 <p align="left">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
