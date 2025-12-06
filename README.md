@@ -1,4 +1,4 @@
-# Chang-Min LEE
+# Chang-Min Lee
 
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:513e3e,100:e8e8e8&height=180&text=BCI%20Boom%20is%20Coming&animation=fadeIn&fontColor=c1bdbd&fontSize=50" />
