@@ -51,7 +51,7 @@
 
 ### 🧠 Brain-Computer Interface & Affective Computing
 
-- **Mimicking Visual Pathways: Multi-Stream Fusion for EEG-Based Image Retrieval (Tentative)** <br/>
+- **Define, Align, and Fuse: A Biologically Grounded Dual-Stream Framework for Hierarchical EEG-to-Image Retrieval (Tentative)** <br/>
   ***CM. Lee**, JM. Kim, W. Choi, Y. Choi, TE. Kam†.* <br/>
   ✍️ **Status:** In Preparation for *IEEE International Winter Conference on Brain-Computer Interface (IEEE BCI Winter 2026)*. <br/>
   📝 **Note:** Proposes a novel architecture fusing Dorsal, Ventral, and Global EEG encoders. (†: Corresponding Author)
