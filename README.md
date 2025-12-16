@@ -51,7 +51,7 @@
 
 ### 🧠 Brain-Computer Interface & Affective Computing
 
-- **Define, Align, and Fuse: Dual-Stream EEG-to-Image Retrieval via Hierarchical CLIP Targets (Tentative)** <br/>
+- **Define--Align--Fuse: Dual-Stream EEG-Vision Alignment using Hierarchical CLIP Representation (Tentative)** <br/>
   ***CM. Lee**, JM. Kim, W. Choi, Y. Choi, TE. Kam†.* <br/>
   ✍️ **Status:** In Preparation for *IEEE International Winter Conference on Brain-Computer Interface (IEEE BCI Winter 2026)*. <br/>
   📝 **Note:** Proposes a novel architecture fusing Dorsal, Ventral, and Global EEG encoders. (†: Corresponding Author)
