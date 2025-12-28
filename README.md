@@ -73,12 +73,7 @@
 - **Text2VR: A Modular Pipeline for Interactive VR Scenes from a Single Text Prompt** <br/>
   ***CM. Lee**\*, S. Myoung\*, M. An\*, Y. Jin\*, EC. Lee†.* <br/>
   ✅ **Status:** Submitted to *Journal of Korea Computer Game Society (JKCGS)*. <br/>
-  📝 **Note:** Extended Version of the *HCI Korea 2026* paper. (*: Co-first Author)
-
-- **Text2VR: An End-to-End Pipeline for Interactive VR Scenes from a Single Text Prompt** <br/>
-  ***CM. Lee**\*, S. Myoung\*, M. An\*, Y. Jin\*, EC. Lee†.* <br/>
-  ✅ **Status:** Submitted to *HCI Korea 2026*. <br/>
-  📝 **Note:** (*: Co-first Author)
+  📝 **Note:** (*: Co-first Author, †: Corresponding Author)
 
 - 🚀 **More updates coming soon**
 ---
