@@ -51,9 +51,9 @@
 
 ### 🧠 Brain-Computer Interface & Affective Computing
 
-- **Define--Align--Fuse: Dual-Stream EEG-Vision Alignment using Hierarchical CLIP Representation (Tentative)** <br/>
+- **Define--Align--Fuse: Dual-Stream EEG-Vision Alignment using Hierarchical CLIP Representation** <br/>
   ***CM. Lee**, JM. Kim, W. Choi, Y. Choi, TE. Kam†.* <br/>
-  ✍️ **Status:** In Preparation for *IEEE International Winter Conference on Brain-Computer Interface (IEEE BCI Winter 2026)*. <br/>
+  ✍️ **Status:** Published in *Proceedings of the IEEE International Winter Conference on Brain-Computer Interface (IEEE BCI Winter 2026 Oral Presentation)*. <br/>
   📝 **Note:** Proposes a novel architecture fusing Dorsal, Ventral, and Global EEG encoders. (†: Corresponding Author)
 
 - **Brain-Inspired Dual-Stream Fusion for EEG-to-Image Retrieval** <br/>
@@ -72,7 +72,7 @@
 
 - **Text2VR: A Modular Pipeline for Interactive VR Scenes from a Single Text Prompt** <br/>
   ***CM. Lee**\*, S. Myoung\*, M. An\*, Y. Jin\*, EC. Lee†.* <br/>
-  ✅ **Status:** Submitted to *Journal of Korea Computer Game Society (JKCGS)*. <br/>
+  ✅ **Status:** Published in *Journal of Korea Computer Game Society (KCI)*, 38(8), 31-41, 2025. <br/>
   🔗 [Paper Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003287442) <br/>
   📝 **Note:** (*: Co-first Author, †: Corresponding Author)
 
