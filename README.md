@@ -54,7 +54,8 @@
 - **Define--Align--Fuse: Dual-Stream EEG-Vision Alignment using Hierarchical CLIP Representation** <br/>
   ***CM. Lee**, JM. Kim, W. Choi, Y. Choi, TE. Kam†.* <br/>
   ✍️ **Status:** Published in *Proceedings of the IEEE International Winter Conference on Brain-Computer Interface (IEEE BCI Winter 2026 Oral Presentation)*. <br/>
-  📝 **Note:** Proposes a novel architecture fusing Dorsal, Ventral, and Global EEG encoders. (†: Corresponding Author)
+  🔗 [Proceedings (TBA)](TBA) <br/>
+  📝 **Note:** (†: Corresponding Author)
 
 - **Brain-Inspired Dual-Stream Fusion for EEG-to-Image Retrieval** <br/>
   ***C. Lee**\*, JM. Kim\*, W. Choi, Y. Choi, TE. Kam†.* <br/>
