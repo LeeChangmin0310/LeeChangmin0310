@@ -19,7 +19,6 @@
 ## 👋 About Me
 
 🎓 **B.E. in Human-Centered AI** @ Sangmyung University (Mar. 2020 – Feb. 2026) <br/>
-🧪 **Research Intern** @ MAILAB, Korea University (Aug. 2025 – Feb. 2026) <br/>
 🧐 **Integrated M.S.-Ph.D.** @ MAILAB, Korea University (Mar. 2026 - Present) <br/>
 
 🧠 **Research Interest:** Brain-Computer Interface (BCI), Visual Brain Decoding, Brain-Inspired AI <br/>
