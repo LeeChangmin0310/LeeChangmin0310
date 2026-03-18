@@ -89,7 +89,7 @@
 | 2025.01 – 2025.10 | **Research Intern**, Emotion Contents Tech. Center | **Affective Computing**<br>- Developed rPPG-based emotion recognition models (Sensors Paper).<br>- Managed MAHNOB-HCI dataset pipeline. |
 | 2024.01 – 2024.12 | **President**, BAMBOO (Academic Club) | Led Human-Centered AI department's academic club; organized seminars and projects. |
 | 2024.07 – 2024.08 | **Participant**, OUTTA AI Bootcamp | Completed Deep Learning (Advanced) course hosted by SNU GEC. |
-| 2020 – 2026.02 | **B.S. Student**, Sangmyung University | Human-Centered AI Major. |
+| 2020 – 2026.02 | **B.E.**, Sangmyung University | Human-Centered AI Major. |
 </details>
 
 
