@@ -51,30 +51,30 @@
 ### 🧠 Brain-Computer Interface & Affective Computing
 
 - **Define--Align--Fuse: Dual-Stream EEG-Vision Alignment using Hierarchical CLIP Representation** <br/>
-  ***CM. Lee**, JM. Kim, W. Choi, Y. Choi, TE. Kam†.* <br/>
-  ✍️ **Status:** Published in *Proceedings of the IEEE International Winter Conference on Brain-Computer Interface (IEEE BCI Winter 2026 Oral Presentation)*. <br/>
-  🔗 [Proceedings (TBA)](TBA) <br/>
-  📝 **Note:** (†: Corresponding Author)
+  ***CM. Lee**, JM. Kim, Y. Choi, W. Choi, TE. Kam†.* <br/>
+  ✅ **Status:** Published in *2026 14th International Conference on Brain-Computer Interface (IEEE BCI Winter 2026)*, pp. 1-5. (Oral Presentation) <br/>
+  🔗 [Paper Link](https://doi.org/10.1109/BCI69045.2026.11435103) <br/>
+  📝 **Note:** (†: Corresponding Author)
 
 - **Brain-Inspired Dual-Stream Fusion for EEG-to-Image Retrieval** <br/>
-  ***C. Lee**\*, JM. Kim\*, W. Choi, Y. Choi, TE. Kam†.* <br/>
-  ✅ **Status:** Published in *Proceedings of the 2025 KOSOMBE Fall Conference* (Poster Presentation). <br/>
-  🔗 [Proceedings (pp. 306-307)](https://www.kosombe.or.kr/register/2025_fall/file/ebook.pdf?v=251206) <br/>
-  📝 **Note:** (*: Co-first Author, †: Corresponding Author)
+  ***C. Lee**\*, JM. Kim\*, W. Choi, Y. Choi, TE. Kam†.* <br/>
+  ✅ **Status:** Published in *Proceedings of the 2025 KOSOMBE Fall Conference* (Poster Presentation). <br/>
+  🔗 [Proceedings (pp. 306-307)](https://www.kosombe.or.kr/register/2025_fall/file/ebook.pdf?v=251206) <br/>
+  📝 **Note:** (*: Co-first Author, †: Corresponding Author)
 
 - **Emotion Recognition from rPPG via Physiologically Inspired Temporal Encoding** <br/>
-  ***C. Lee**, H. Lee, M. Whang†.* <br/>
-  ✅ **Status:** Published in *Sensors (SCIE)*, 25(13), 3995, 2025. <br/>
-  🔗 [Paper Link](https://doi.org/10.3390/s25133995) <br/>
-  📝 **Note:** (†: Corresponding Author)
+  ***C. Lee**, H. Lee, M. Whang†.* <br/>
+  ✅ **Status:** Published in *Sensors (SCIE)*, 25(13), 3995, 2025. <br/>
+  🔗 [Paper Link](https://doi.org/10.3390/s25133995) <br/>
+  📝 **Note:** (†: Corresponding Author)
 
 ### 🎨 Generative AI & Virtual Reality
 
 - **Text2VR: A Modular Pipeline for Interactive VR Scenes from a Single Text Prompt** <br/>
-  ***CM. Lee**\*, S. Myoung\*, M. An\*, Y. Jin\*, EC. Lee†.* <br/>
-  ✅ **Status:** Published in *Journal of Korea Computer Game Society (KCI)*, 38(8), 31-41, 2025. <br/>
-  🔗 [Paper Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003287442) <br/>
-  📝 **Note:** (*: Co-first Author, †: Corresponding Author)
+  ***CM. Lee**\*, S. Myoung\*, M. An\*, Y. Jin\*, EC. Lee†.* <br/>
+  ✅ **Status:** Published in *Journal of Korea Computer Game Society (KCI)*, 38(8), 31-41, 2025. <br/>
+  🔗 [Paper Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003287442) <br/>
+  📝 **Note:** (*: Co-first Author, †: Corresponding Author)
 
 - 🚀 **More updates coming soon**
 ---
