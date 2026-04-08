@@ -109,12 +109,11 @@
   - *Spring 2020*
 
 ### Awards & Competitions
-- **Ranked 18th (Top 1.5%)**, NeurIPS 2025 EEG Foundation Challenge
+- **Ranked 18th (Top 1.5%)**, [NeurIPS 2025 EEG Foundation Challenge](https://eeg2025.github.io/)
   - *NeurIPS 2025 (1,183 Teams)*
-- **Excellence Award**, Human AI Studio Festival 2025 (Graduation Project: Text2VR)
-[Text2VR: Text-Guided Panorama Generation and Asset Decomposition for Interactive VR Scene Construction](https://github.com/Text2VR)
+- **Excellence Award**, Human AI Studio Festival 2025 (Graduation Project: [Text2VR](https://github.com/Text2VR))
   - *Sangmyung University (Nov. 2025)*
-- **1st Prize**, The 1st KASI and KAIST AI Competition
+- **1st Prize**, [The 1st KASI and KAIST AI Competition](https://github.com/LeeChangmin0310/2024_KASI_KAIST_Space_AI_Competition)
   - *KASI and KAIST (2024)*
 - **Excellence Prize (2nd Place)**, AI & Cloud Service Contents Contest
   - *SW-centered University Business Group (2024)*
@@ -122,7 +121,7 @@
   - *DACON (2024)*
 - **Top 5% (45th/906 Participants)**, SW-centered University Digital AI Competition
   - *DACON (2024)*
-- **Encouragement Prize**, 2023 BioHealth Data Contest (Dental Field)
+- **Encouragement Prize**, [2023 BioHealth Data Contest (Dental Field)](https://github.com/LeeChangmin0310/2023_BioHealth_Data_Contest)
   - *BioHealth Innovation and Convergence University Business Group (2023)*
 
 </details>
