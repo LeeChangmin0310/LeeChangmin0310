@@ -112,6 +112,7 @@
 - **Ranked 18th (Top 1.5%)**, NeurIPS 2025 EEG Foundation Challenge
   - *NeurIPS 2025 (1,183 Teams)*
 - **Excellence Award**, Human AI Studio Festival 2025 (Graduation Project: Text2VR)
+[Text2VR: Text-Guided Panorama Generation and Asset Decomposition for Interactive VR Scene Construction](https://github.com/Text2VR)
   - *Sangmyung University (Nov. 2025)*
 - **1st Prize**, The 1st KASI and KAIST AI Competition
   - *KASI and KAIST (2024)*
