@@ -29,6 +29,9 @@
     <a href="mailto:ckdals1380@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white&labelColor=2e2e2e">
     </a>
+    <a href="mailto:lbrightjade@korea.ac.kr">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white&labelColor=2e2e2e">
+    </a>
     <a href="https://www.linkedin.com/in/changmin-lee-brightjade">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=2e2e2e">
     </a>
