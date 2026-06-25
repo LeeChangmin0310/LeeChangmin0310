@@ -45,7 +45,8 @@
 
 ---
 
-## 📄 Selected Publications
+<details>
+<summary><h2>📄 Publications</h2></summary>
 *For a **full** list, please visit my [Portfolio Website](https://leechangmin0310.github.io/publications.html).*
 
 ### 🧠 Brain-Computer Interface & Affective Computing
@@ -77,7 +78,7 @@
   📝 **Note:** (*: Co-first Author, †: Corresponding Author)
 
 - 🚀 **More updates coming soon**
----
+</details>
 
 <details>
 <summary><h2>💼 Career</h2></summary>
